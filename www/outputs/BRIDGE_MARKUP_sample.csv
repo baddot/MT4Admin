@@ -1,0 +1,32 @@
+currency Pairs,Spread,Half Spread,Bid,Ask
+audchf.i,8,4,4,4
+audchf ,8,4,4,4
+audjpy.i,8,4,4,4
+audjpy,8,4,4,4
+audusd.i,9,4.5,5,4
+audusd,9,4.5,5,4
+euraud.i,8,4,4,4
+euraud,8,4,4,4
+eurcad.i,12,6,6,6
+eurcad,12,6,6,6
+eurchf.i,9,4.5,5,4
+eurchf,9,4.5,5,4
+eurgbp.i,11,5.5,6,5
+eurgbp,12,6,6,6
+eurjpy.i,9,4.5,5,4
+eurjpy,12,6,6,6
+eurusd.i,8,4,4,4
+eurusd,8,4,4,4
+gbpjpy.i,7,3.5,4,3
+gbpjpy,10,5,5,5
+gbpusd.i,7,3.5,4,3
+gbpusd,12,6,6,6
+nzdusd.i,6,3,3,3
+nzdusd,8,4,4,4
+usdcad.i,7,3.5,4,3
+usdcad,10,5,5,5
+usdchf.i,6,3,3,3
+usdchf,12,6,6,6
+usdjpy.i,7,3.5,4,3
+usdjpy,7,3.5,4,3
+xagusd.i,15,7.5,8,7

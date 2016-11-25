@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="yes"?>
+<ServerArray>
+	<Server id="1">
+		<ServerName> Qztest</ServerName>
+		<IP> 183.111.148.188</IP>
+		<ServerPort> 33333 </ServerPort>
+		<MSSQLPort> 1433 </MSSQLPort>
+		<UserName>Bill</UserName>
+		<Password>5dnjf19dlf!!</Password>
+	</Server>
+	
+	<Server id="2">
+		<ServerName>Fxpanda </ServerName>
+		<IP>112.175.88.44</IP>
+		<ServerPort> 33333 </ServerPort>
+		<MSSQLPort>1433</MSSQLPort>
+		<UserName>Bill</UserName>
+		<Password>5dnjf19dlf!!</Password>
+	</Server>
+</ServerArray>

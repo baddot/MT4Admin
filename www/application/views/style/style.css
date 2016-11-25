@@ -1,0 +1,36 @@
+/*
+.content {
+        width: 800px;
+        height: 800px;
+
+        position:relative;
+        left:0; right:0;
+        top:0; bottom:0;
+        margin:auto;
+
+        max-width:100%;
+        max-height:100%;
+        overflow:auto;
+    }
+
+    
+.content {
+width: 50%;
+  height: 50%;
+  overflow: auto;
+  margin: auto;
+  position: relative;
+  top: 0; left: 0; bottom: 0; right: 0;
+    
+    }
+    
+*/
+.content {
+	height:100%;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	border: 0;
+	vertical-align: left;
+	text-align: left;
+	}
